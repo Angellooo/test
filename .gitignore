@@ -1,4 +1,4 @@
 #Aquí podemos seleccionar los archivos que serán ignorados y no comiteados
-#De la siguiente manera .nombreDelArchivo o carpeta_de_proyecto/
+#De la siguiente manera .nombreDelArchivo o también para carpetas con carpeta_de_proyecto/
 
 .env
